@@ -26,7 +26,6 @@
     <td>https://github.com/LuatPT/fitvn_FE (ReactJs)</td>
   </tr>
 </table>
--
 - My LinkedIn: https://www.linkedin.com/in/luat-pham-07a6621b9/
 - My blogs: (To save my knowledge and some solutions for bugs)  https://1dayofdeveloper.wordpress.com/
 - My CV (Last update 03/2021): https://luatpt.github.io/cvonline/
