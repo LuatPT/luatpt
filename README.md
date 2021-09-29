@@ -10,14 +10,8 @@
 - Backend: https://github.com/LuatPT/WheyStore (Spring Boot) | Frontend: https://github.com/LuatPT/WheyStore_FE (ReactJs)
 - Create website Fitness
 - Backend: https://github.com/LuatPT/fitvnapi (Spring Boot) | Frontend: https://github.com/LuatPT/fitvn_FE (ReactJs)
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-- My blogs: (To save my knowledge and some solutions for bugs) 
-- https://1dayofdeveloper.wordpress.com/
+- </hr>
+- My LinkedIn: https://www.linkedin.com/in/luat-pham-07a6621b9/
+- My blogs: (To save my knowledge and some solutions for bugs)  https://1dayofdeveloper.wordpress.com/
 - My CV (Last update 03/2021): https://luatpt.github.io/cvonline/
 - ![](https://komarev.com/ghpvc/?username=luatpt&color=green)
